@@ -1,0 +1,16 @@
+#everything{
+    background-color: red; 
+    /* background-image: url( "https://fsmedia.imgix.net/99/cb/09/d6/8cf4/4079/bb3a/715306383cd4/the-classic-metropolis-is-one-of-many-must-watch-bits-of-sci-fi-available-on-netflix.jpeg"); */
+}
+#GO{
+
+    background-color: blue; 
+}
+#trivia{
+    background-color: green; 
+
+}
+#scorecard{
+    background-color: yellow;
+
+}
